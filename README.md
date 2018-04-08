@@ -7,6 +7,7 @@ docker Dockerfile文件
 git https://仓库
 
 git config --glocal user.name "name"
+
 git config --global user.email "mail"
 
 git add .
